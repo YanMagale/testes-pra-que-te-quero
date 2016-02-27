@@ -1,0 +1,19 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+        "mockery/mockery": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPMG\\Exemplo1\\": [
+                "src/PHPMG/Exemplo1",
+                "tests/PHPMG/Exemplo1"
+            ],
+            "PHPMG\\Exemplo2\\": [
+                "src/PHPMG/Exemplo2",
+                "tests/PHPMG/Exemplo2"
+            ]
+        }
+    }
+
+}
