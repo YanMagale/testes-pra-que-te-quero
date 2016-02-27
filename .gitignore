@@ -1,4 +1,4 @@
 nbproject
 tests/_reports
-/vendor
+vendor
 composer.lock

@@ -3,6 +3,8 @@
 
 Repositório com os exemplos da palestra  "Testes pra que te quero", ocorrida no 2º PHP MG Talks.
 
+Link - https://slides.com/yanmagale/testes-pra-que-te-quero/
+
 
 Os exemplos apresentados foram baseados no livro (TDD no mundo real com PHP") [https://github.com/andrebian/tdd-no-mundo-real-php/]
 

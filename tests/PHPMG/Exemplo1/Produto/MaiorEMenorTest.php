@@ -24,7 +24,7 @@ class MaiorEMenorTest extends PHPUnit
         $maiorMenor = new MaiorEMenor();
         $maiorMenor->encontra($carrinho);
         $this->assertEquals("Jogo de pratos", $maiorMenor->getMenor()->getNome());
-        $this->assertEquals("Jogo de pratos", $maiorMenor->getMaior()->getNome());
+        $this->assertEquals("Geladeira", $maiorMenor->getMaior()->getNome());
     }
 
     public function testApenasUmProduto()
